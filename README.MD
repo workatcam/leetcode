@@ -9,7 +9,7 @@
 - 215 Kth Largest Element in an Array - Heap https://leetcode.com/problems/kth-lar... (PriorityQueue)
 - 23 Merge k Sorted Lists - Heap https://leetcode.com/problems/merge-k... (PriorityQueue)
 
-### Day 1:
+### Day 1 (20 mins):
 - [ ] 225 Implement Stack using Queues https://leetcode.com/problems/implement-stack-using-queues/ (Stack / Queue)
 - [ ] Youtube: https://youtu.be/PFZybl3VEV4
 - [ ] My code: https://github.com/workatcam/leetcode/blob/main/DS/225-Implement-Stack-using-Queues-01.py
