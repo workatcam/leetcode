@@ -18,3 +18,4 @@ Google Docs: https://docs.google.com/document/d/1lR3LPyRE3IXrk6ibypDEsLuifYZFoW-
 
 ### Day 2:
 - [ ] 242 Valid Anagram https://leetcode.com/problems/valid-anagram/ (Hash Table)
+- [ ] My code: https://github.com/workatcam/leetcode/blob/main/DS/242-Valid-Anagram-Dictionary.py
