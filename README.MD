@@ -16,6 +16,6 @@ Google Docs: https://docs.google.com/document/d/1lR3LPyRE3IXrk6ibypDEsLuifYZFoW-
 - [ ] Youtube: https://youtu.be/PFZybl3VEV4
 - [ ] My code: https://github.com/workatcam/leetcode/blob/main/DS/225-Implement-Stack-using-Queues-01.py
 
-### Day 2:
+### Day 2 (1.5 h):
 - [ ] 242 Valid Anagram https://leetcode.com/problems/valid-anagram/ (Hash Table)
 - [ ] My code: https://github.com/workatcam/leetcode/blob/main/DS/242-Valid-Anagram-Dictionary.py
