@@ -20,4 +20,4 @@ Link: https://leetcode.com/study-plan/data-structure/
 - [ ] 53 Maximum Subarray: https://leetcode.com/problems/maximum-subarray/ (not that easy for me with complexity less than O(N^2))
 ## Day 2: Array
 - [ ] 1 Two Sum: https://leetcode.com/problems/two-sum/ (hashtable)
-- [ ] 88 Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/
+- [ ] 88 Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/ (sort)
