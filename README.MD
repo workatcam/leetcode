@@ -22,3 +22,4 @@ Google Docs: https://docs.google.com/document/d/1lR3LPyRE3IXrk6ibypDEsLuifYZFoW-
 
 ### Day 3 (Medium)
 - [ ] 133 Clone Graph https://leetcode.com/problems/clone-graph/
+  - It's a bit hard for me but I think it should be worth it
