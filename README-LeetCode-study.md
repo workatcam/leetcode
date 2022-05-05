@@ -11,6 +11,11 @@ Link: https://leetcode.com/study-plan/data-structure/
 - [x] 1 Two Sum: https://leetcode.com/problems/two-sum/ (hashtable)
 - [x] 88 Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/
 
+## Day3: Array
+- [x] 350 Intersection of Two Arrays II: https://leetcode.com/problems/intersection-of-two-arrays-ii/
+## Day4: Array:
+- [x] 121 Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ (Array)
+- [ ] 566 Reshape the Matrix: https://leetcode.com/problems/reshape-the-matrix/ (Array)
 
 
 # Plan without tick
@@ -21,3 +26,8 @@ Link: https://leetcode.com/study-plan/data-structure/
 ## Day 2: Array
 - [ ] 1 Two Sum: https://leetcode.com/problems/two-sum/ (hashtable)
 - [ ] 88 Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/ (sort)
+## Day3: Array
+- [ ] 350 Intersection of Two Arrays II: https://leetcode.com/problems/intersection-of-two-arrays-ii/
+## Day4: Array:
+- [ ] 121 Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ (Array)
+- [ ] 566 Reshape the Matrix: https://leetcode.com/problems/reshape-the-matrix/ (Array)
