@@ -9,7 +9,7 @@ Link: https://leetcode.com/study-plan/data-structure/
 
 ## Day 2: Array
 - [x] 1 Two Sum: https://leetcode.com/problems/two-sum/ (hashtable)
-- [ ] 88 Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/
+- [x] 88 Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/
 
 
 
